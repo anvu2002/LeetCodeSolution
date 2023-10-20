@@ -1,0 +1,11 @@
+
+Pinging google.com [2607:f8b0:400b:80c::200e] with 32 bytes of data:
+Reply from 2607:f8b0:400b:80c::200e: time=17ms 
+Reply from 2607:f8b0:400b:80c::200e: time=43ms 
+Reply from 2607:f8b0:400b:80c::200e: time=38ms 
+Reply from 2607:f8b0:400b:80c::200e: time=19ms 
+
+Ping statistics for 2607:f8b0:400b:80c::200e:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 17ms, Maximum = 43ms, Average = 29ms
